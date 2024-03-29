@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋I'm a high school student that has programming as a hobby, looking forward to make it my job!<br>🔭 I’m currently working on [GPT-SOLVER]([https://github.com/heitorlimamorei/financialController](https://github.com/heitorlimamorei/gpt-solver])<br>🌱Currently learning Java Spring.<br>📖Hungry for knowledge<br>🚩From SC currently living in Belo Horizonte - MG- Brazil<br>
+👋I'm a high school student that has programming as a hobby, looking forward to make it my job!<br>🔭 I’m currently working on [GPT-SOLVER](([https://github.com/heitorlimamorei/financialController](https://github.com/heitorlimamorei/gpt-solver]))<br>🌱Currently learning Java Spring.<br>📖Hungry for knowledge<br>🚩From SC currently living in Belo Horizonte - MG- Brazil<br>
 
 
 ## 🌐 Socials:
