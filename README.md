@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋I'm a junior software developer, working with what i like to do!<br>📖Hungry for knowledge<br>🚩From SC currently living in Belo Horizonte - MG- Brazil<br>
+👋I'm a junior software developer, living the dream!<br>📖Hungry for knowledge<br>🚩From SC currently living in Belo Horizonte - MG- Brazil<br>
 
 
 ## 🌐 Socials:
